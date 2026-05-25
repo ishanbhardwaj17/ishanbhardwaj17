@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ishan%20Bhardwaj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ishan%20Bhardwaj&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
 
-<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Banner" width="100%"/>
+<p align="center">
+  <img src="./bat.gif" width="55%" />
+</p>
 
 ## 📌 About Me
 
@@ -24,8 +26,6 @@ const Ishan = {
         "Machine Learning Systems",
         "Real-World Problem Solving",
         "Production-Grade Backend Architecture",
-        "NLP",
-        "Computer Vision"
     ],
 
     collaboration: [
