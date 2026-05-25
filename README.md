@@ -1,21 +1,47 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ishan%20Bhardwaj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ishanbhardwaj17">
-    <img src="https://komarev.com/ghpvc/?username=ishanbhardwaj17&label=Profile%20views&color=00FFFF&style=flat-square" alt="ishanbhardwaj17's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Banner" width="100%"/>
 
 ## 📌 About Me
-- Currently learning Backend Development, System Design, and AI Integration
-- Building Full Stack + AI projects using React, Node.js, MongoDB, and Python
-- Interested in scalable web applications, ML systems, and real-world problem solving
-- Looking to collaborate on open-source, AI, or MERN stack projects
-- Exploring NLP, Computer Vision, and production-grade backend architecture
-- Goal: Become a strong software engineer capable of building end-to-end products
 
+```typescript
+const Ishan = {
+    location: "India 🇮🇳",
+
+    currentlyLearning: [
+        "Backend Development",
+        "System Design",
+        "AI Integration"
+    ],
+
+    building: [
+        "Full Stack Applications",
+        "AI-Powered Projects",
+        "Scalable Web Applications"
+    ],
+
+    interests: [
+        "Machine Learning Systems",
+        "Real-World Problem Solving",
+        "Production-Grade Backend Architecture",
+        "NLP",
+        "Computer Vision"
+    ],
+
+    collaboration: [
+        "Open Source Projects",
+        "AI Projects",
+        "MERN Stack Applications"
+    ],
+    
+    currentGoal:
+        "Becoming a strong software engineer capable of building end-to-end products",
+
+    funFact:
+        "I spend more time fixing bugs than writing features 😄"
+};
+
+```
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -107,6 +133,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ishanbhardwaj17">
+    <img src="https://komarev.com/ghpvc/?username=ishanbhardwaj17&label=Profile%20views&color=00FFFF&style=flat-square" alt="ishanbhardwaj17's profile views" />
+  </a>
 </p>
 
 <div align="center">
