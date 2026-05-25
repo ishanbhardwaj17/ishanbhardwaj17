@@ -1,87 +1,115 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ishan%20Bhardwaj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ishanbhardwaj17">
+    <img src="https://komarev.com/ghpvc/?username=ishanbhardwaj17&label=Profile%20views&color=00FFFF&style=flat-square" alt="ishanbhardwaj17's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Currently learning Backend Development, System Design, and AI Integration
+- Building Full Stack + AI projects using React, Node.js, MongoDB, and Python
+- Interested in scalable web applications, ML systems, and real-world problem solving
+- Looking to collaborate on open-source, AI, or MERN stack projects
+- Exploring NLP, Computer Vision, and production-grade backend architecture
+- Goal: Become a strong software engineer capable of building end-to-end products
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ishanbhardwaj17">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishanbhardwaj17&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ishanbhardwaj17's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ishanbhardwaj17&theme=dark&hide_border=true&cache_seconds=86400" alt="ishanbhardwaj17's GitHub Streak" width="49%" />
+</p>
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Ishan%20Bhardwaj!+👋;Welcome+to+my+Profile!" alt="Typing SVG" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishanbhardwaj17/ishanbhardwaj17/main/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishanbhardwaj17/ishanbhardwaj17/main/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ishanbhardwaj17/ishanbhardwaj17/main/github-contribution-grid-snake.svg" />
-</picture>
-
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-## 🛠️ Tech Stack
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishan-bhardwaj-a484ab329/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/9108824895152">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ISHANBHARDWAJ177@GMAIL.COM">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=8B5CF6)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=8B5CF6)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=8B5CF6)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=8B5CF6)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=8B5CF6)
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=8B5CF6)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=8B5CF6)
-![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&logoColor=8B5CF6)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=8B5CF6)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=aws&logoColor=8B5CF6)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=8B5CF6)
-
+  <img src="https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572" alt="Bottom Line" width="100%" />
 </div>
 
----
-
-##  About Me
-
-Creative Engineer & Full Stack Developer.
-
-```typescript
-const developer = {
-    name: "Ishan Bhardwaj",
-    location: "Earth 🌍",
-    skills: ["React", "Next.js", "Python", "TypeScript", "TailwindCSS", "Node.js", "HTML5", "JavaScript", "MongoDB", "Redis", "Docker", "AWS", "CSS3"],
-    currentFocus: "Building cool things!",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanbhardwaj17&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbhardwaj17&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="Top Languages" width="48%" />
-
-</div>
-
-## What I'm Up To
-
- Building full-stack and AI-powered projects to sharpen real-world development skills
- Currently learning backend development, machine learning, and deployment workflows
- Exploring React, Next.js, Node.js, Python, and modern AI tools
- Looking to collaborate on web development and AI/ML projects
- Interested in solving DSA problems 
- 
-
-##  Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishan-bhardwaj-a484ab329/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💖 Show some love by starring some repositories!
-
-![Profile Views](https://komarev.com/ghpvc/?username=ishanbhardwaj17&color=3DDCF7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**⭐️ From [ishanbhardwaj17](https://github.com/ishanbhardwaj17) with ❤️**
-
-</div>
