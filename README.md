@@ -43,18 +43,6 @@ const Ishan = {
 
 ```
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/ishanbhardwaj17">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishanbhardwaj17&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ishanbhardwaj17's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ishanbhardwaj17&theme=dark&hide_border=true&cache_seconds=86400" alt="ishanbhardwaj17's GitHub Streak" width="49%" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
